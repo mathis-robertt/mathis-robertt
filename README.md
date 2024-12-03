@@ -1,33 +1,11 @@
-    <title>Mathis Robert - Portfolio</title>
-</head>
-<body>
-    <h1><strong>👋 Salutation Je suis Mathis Robert</strong></h1>
-    <h2><strong>Apprenti Développeur Web</strong></h2>
+<h1 align="center">👋Salutation Je suis Mathis Robert</h1>
+<h3 align="center">Apprenti Développeur Web</h3>
 
-    <h3><strong>🕶 A propos de moi</strong></h3>
-    <p>Bonjour ! Je suis un développeur web de 19 ans qui aime :</p>
-    <ul>
-        <li><strong>Le développement web</strong> en utilisant CSS, HTML mais également Python</li>
-        <li><strong>Les projets inventifs et les jeux</strong></li>
-    </ul>
-    <p>Je recherche des défis pour m'améliorer.</p>
+- 👾Me contacter : **mathis.robert@laplateforme.io**
 
-    <hr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-    <h3><strong>Compétences Techniques</strong></h3>
-    <h4><strong>Langages</strong></h4>
-    <ul>
-        <li>Création de sites web</li>
-    </ul>
-
-    <hr>
-
-    <h3><strong>Me contacter</strong></h3>
-    <p><strong>Adresse mail :</strong> mathis.robert@laplateforme.io</p>
-    <p><strong>GitHub :</strong> <a href="[https://github.com/mathis-robert](https://github.com/mathis-robertt)" target="_blank">github.com/mathis-robert</a></p>
-
-    <hr>
-
-    <h3><strong>"Un grand pouvoir implique de grandes responsabilités."</strong></h3>
-</body>
-</html>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
